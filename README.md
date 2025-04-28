@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emiliano0614
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning how to code in c++
-- 💞️ I’m looking to collaborate on any beginning coding project 
+- 🌱 I’m currently bulding a project that tracks how much you recycled
+- 💞️ I’m looking to collaborate on any coding project 
 - 📫 How to reach me is by my email emilianoprado12345@gmail.com
 - 😄 Pronouns: he/him
 
