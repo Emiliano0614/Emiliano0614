@@ -1,4 +1,4 @@
-👋 Hi, I'm Emiliano (Goat)
+👋 Hi, I'm Emiliano Prado
 
 🎓 CS Senior at UTRGV, graduating June 2027
 
@@ -9,6 +9,8 @@
 🌱 Always learning — currently leveling up on DSA and system design
 
 💼 Looking for SWE internship/new grad opportunities
+
+🧰 Tech: JavaScript · Python · React · Node.js · Flask · SQL
 
 📫 Reach me at prado.emiliano01@gmail.com
 
